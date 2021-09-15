@@ -1,5 +1,6 @@
 /*
 CREE PAR : LORD_MECA
+MINECRAFT VERSION : 1.16 (mais sa devrait marcher sur les anciennes versions)
 */
 
 package fr.lordmeca.utils;

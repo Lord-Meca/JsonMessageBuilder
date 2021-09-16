@@ -1,6 +1,6 @@
 /*
-CREE PAR : LORD_MECA
-MINECRAFT VERSION : 1.16 (mais sa devrait marcher sur les anciennes versions)
+CREATE BY : LORD_MECA
+MINECRAFT VERSION : 1.16 (but it should work on older versions)
 */
 
 package fr.lordmeca.utils;
